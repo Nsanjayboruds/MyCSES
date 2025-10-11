@@ -5,8 +5,6 @@
 a.out
 
 # IDE files
-.vscode/settings.json
-.vscode/launch.json
 
 # OS generated files
 .DS_Store
@@ -21,3 +19,5 @@ Thumbs.db
 *.tmp
 *.temp
 *.log
+config.bat
+node_modules
